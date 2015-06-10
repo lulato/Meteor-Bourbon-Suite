@@ -8,10 +8,7 @@ This project starts with
 
 Just run 
 
-``` sh
-meteor
-```
-
+in this order
 
 ``` sh
 meteor add fourseven:scss
