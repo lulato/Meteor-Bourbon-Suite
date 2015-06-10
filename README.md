@@ -2,8 +2,8 @@
 
 
 This project starts with 
-Bourbon + Neat + bitters
-Oh yeah and cofeescript
+### Bourbon + Neat + bitters
+#### Oh yeah and cofeescript
 
 
 Just run 
@@ -35,9 +35,18 @@ and the neat
 meteor add wolves:neat
 ```
 
+
+``` sh
+meteor 
+```
+
+Check local host
+[http://localhost:3000/](http://localhost:3000/)
+
+
 and thats it
 
-start coding star coding
+start coding star coding add your coffee to the "meteor-bourbonsuite"
 
+[Refills](http://refills.bourbon.io/)
 Check Refills and use withh the above to dump some sinpets to test
-[http://refills.bourbon.io/](http://refills.bourbon.io/)
